@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/yoonpro/.dotnet/store/|arch|/|tfm|",
+      "/Users/yoonpro/.nuget/packages"
+    ]
+  }
+}
